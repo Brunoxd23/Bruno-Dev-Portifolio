@@ -40,7 +40,7 @@ O projeto é totalmente responsivo e adaptável a diferentes tamanhos de tela:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/front-club.git
+git clone https://github.com/Brunoxd23/Bruno-Dev-Portifolio.git
 ```
 
 2. Abra o arquivo index.html em seu navegador ou use um servidor local como Live Server
