@@ -1035,7 +1035,7 @@ main {
 }
 
 .badge-streamlit {
-  background: #FF4B4B;
+  background: #ff4b4b;
   color: #fff;
 }
 
@@ -1922,7 +1922,7 @@ a[href] {
 }
 
 .badge-streamlit {
-  background: #FF4B4B;
+  background: #ff4b4b;
   color: #fff;
 }
 
@@ -2714,40 +2714,29 @@ a[href] {
 /* Toast Notification */
 .toast-container {
   position: fixed;
-  bottom: 20px;
-  right: 20px;
-  z-index: 9999;
-  display: none;
-  padding: 1rem 1.5rem;
+  bottom: 30px;
+  right: 30px;
+  padding: 1rem 2rem;
   background: rgba(0, 255, 252, 0.1);
   border: 1px solid var(--neon-primary);
-  border-radius: 8px;
   color: var(--neon-primary);
+  border-radius: 8px;
   font-weight: 500;
   backdrop-filter: blur(10px);
   box-shadow: 0 0 20px rgba(0, 255, 252, 0.2);
-  animation: toastIn 0.5s ease, toastOut 0.5s ease 2.5s forwards;
+  z-index: 9999;
+  display: none;
+  animation: toastIn 0.5s ease;
 }
 
 @keyframes toastIn {
   from {
-    transform: translateX(100%);
+    transform: translateY(100px);
     opacity: 0;
   }
   to {
-    transform: translateX(0);
+    transform: translateY(0);
     opacity: 1;
-  }
-}
-
-@keyframes toastOut {
-  from {
-    transform: translateX(0);
-    opacity: 1;
-  }
-  to {
-    transform: translateX(100%);
-    opacity: 0;
   }
 }
 

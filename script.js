@@ -337,9 +337,9 @@ document.addEventListener("DOMContentLoaded", function () {
     }, 3000);
   }
 
-  // Add click handler for CV download
+  // Update CV download click handler
   document
-    .querySelector('a[href$="Currículo_Bruno.pdf"]')
+    .querySelector('a[href$="Bruno-Curriculo.pdf"]')
     .addEventListener("click", () => {
       setTimeout(() => {
         showToast("Download concluído com sucesso!");
