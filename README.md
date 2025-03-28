@@ -4,7 +4,7 @@
 
 Um portfólio profissional moderno e interativo, desenvolvido com tecnologias web modernas e design responsivo.
 
-🌐 [Ver Projeto Online](https://portifolio-eight-liard.vercel.app/)
+🌐 [Ver Projeto Online](https:/bruno-dev-portifolio.vercel.app)
 
 ## ✨ Features
 
