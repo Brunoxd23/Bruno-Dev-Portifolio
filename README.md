@@ -4,7 +4,7 @@
 
 Um portfólio profissional moderno e interativo, desenvolvido com tecnologias web modernas e design responsivo.
 
-🌐 [Ver Projeto Online](https://bruno-dev-portifolio.vercel.app)
+🌐 <a href="https://bruno-dev-portifolio.vercel.app" target="_blank">Ver Projeto Online</a>
 
 ## ✨ Features
 
