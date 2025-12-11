@@ -26,7 +26,7 @@ body.light-theme::before {
   height: 100%;
   background: radial-gradient(
       circle at 20% 50%,
-      rgba(0, 150, 200, 0.15) 0%,
+      rgba(5, 164, 218, 0.15) 0%,
       transparent 50%
     ),
     radial-gradient(
